@@ -45,25 +45,5 @@ Timeline： lz从大二开始陆陆续续准备托福，大二下上过某机构
       <description>Hello world！ 事物的开始是仓促的，个人博客想到就去做了。希望能够不要草草了事罢。</description>
     </item>
     
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://jasonking666.github.io/2014/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://jasonking666.github.io/2014/goisforlovers/</guid>
-      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
-This document is a brief primer on using Go templates.</description>
-    </item>
-    
-    <item>
-      <title>Introduction aux modèles (Hu)go</title>
-      <link>https://jasonking666.github.io/2014/goisforlovers.fr/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://jasonking666.github.io/2014/goisforlovers.fr/</guid>
-      <description>Hugo utilise l&amp;rsquo;excellente librairie go html/template pour son moteur de modèles. c&amp;rsquo;est un moteur extrêmement léger qui offre un très petit nombre de fonctions logiques. À notre expérience, c&amp;rsquo;est juste ce qu&amp;rsquo;il faut pour créer un bon site web statique. Si vous avez déjà utilisé d&amp;rsquo;autre moteurs de modèles pour différents langages ou frameworks, vous allez retrouver beaucoup de similitudes avec les modèles go.
-Ce document est une introduction sur l&amp;rsquo;utilisation de Go templates.</description>
-    </item>
-    
   </channel>
 </rss>
