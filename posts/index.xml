@@ -6,33 +6,13 @@
     <description>Recent content in Posts on Jason&#39;s Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://jasonking666.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Feb 2021 23:29:32 +0800</lastBuildDate><atom:link href="https://jasonking666.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://jasonking666.github.io/2014/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>一年七战从78到106，我的血泪战Toefl史</title>
+      <link>https://jasonking666.github.io/2021/02_toefl/</link>
+      <pubDate>Wed, 24 Feb 2021 23:29:32 +0800</pubDate>
       
-      <guid>https://jasonking666.github.io/2014/goisforlovers/</guid>
-      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
-This document is a brief primer on using Go templates.</description>
-    </item>
-    
-    <item>
-      <title>Introduction aux modèles (Hu)go</title>
-      <link>https://jasonking666.github.io/2014/goisforlovers.fr/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://jasonking666.github.io/2014/goisforlovers.fr/</guid>
-      <description>Hugo utilise l&amp;rsquo;excellente librairie go html/template pour son moteur de modèles. c&amp;rsquo;est un moteur extrêmement léger qui offre un très petit nombre de fonctions logiques. À notre expérience, c&amp;rsquo;est juste ce qu&amp;rsquo;il faut pour créer un bon site web statique. Si vous avez déjà utilisé d&amp;rsquo;autre moteurs de modèles pour différents langages ou frameworks, vous allez retrouver beaucoup de similitudes avec les modèles go.
-Ce document est une introduction sur l&amp;rsquo;utilisation de Go templates.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jasonking666.github.io/1/02_toefl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jasonking666.github.io/1/02_toefl/</guid>
+      <guid>https://jasonking666.github.io/2021/02_toefl/</guid>
       <description>一年七战从78到106，我的血泪战Toefl史 引言： lz作为一个典型的中国学生，从小接受的是做题考试的应试教育，因此读写较可以，但是听说这方面就是大大的弱项了。高考浙江卷135+，四级470+，六级考了好几次，最好的一次算上对比考是548（这边建议对于分数有要求的同学都去考一下对比考，算是交大的福利了并且一般会比正式考试简单一点）。自己在准备标化考试这条路上也算是走的磕磕绊绊，所以希望写这篇能够记录一下，能给交大同学们一些微小的帮助这篇文章也算发挥了他的价值。
 Timeline： lz从大二开始陆陆续续准备托福，大二下上过某机构的课，但是因为懒得原因自己翘了很多，之后因为课业的原因（主要是懒orz）荒废了很久拖到大三上学期考试周结束的那个周日（前一天还在熬夜写作业）去裸考了一次。大概在大三寒假的时候正式下决定出国，这个时候开始才算开始准备托福。之后陆陆续续考了好几次，直到10月底连考三周才终于第一次过100，极限出分，之后匆匆忙忙的送分开始填网申orz。
 阅读： 阅读可能算是lz唯一一个没怎么准备的part了，基本上就靠着平时的论文阅读和考场练习真题来积累。对于大部分同学来说，阅读是我们想要冲刺100+必须要做好的一门学科，所以如果还是有时间的话建议至少考前练个几套找找手感，几种题型的话其实做个几套题目也大概都可以了解。
@@ -54,6 +34,35 @@ Timeline： lz从大二开始陆陆续续准备托福，大二下上过某机构
   不紧张，放松应考。一定要保持放松和考不好也不会死的心态去考。根据GAU这么多年学长学姐的经验来看，GT真的真的极其不重要，申请更加看重的是你的整体素质，GT永远无法作为一个学校不录取你的原因。
   不要放太多时间准备。与其申请季时在GT上大下苦工，不如尽可能的提高自己的软背景和文书，有意义并且重要的多。另外，这些考试是永远无法准备完备的，千万不要觉得自己还没准备好而把考试一拖再拖，打乱自己的整体节奏。
   罗里吧嗦的说了一大堆，也必定还是有很多遗漏的地方，也非常欢迎大家留言讨论。这些也仅仅是个人的一些想法与建议，仅仅做个参考。最后祝各位都能心想事成！！</description>
+    </item>
+    
+    <item>
+      <title>第一篇博文</title>
+      <link>https://jasonking666.github.io/2021/01_hello_world/</link>
+      <pubDate>Wed, 24 Feb 2021 23:08:32 +0800</pubDate>
+      
+      <guid>https://jasonking666.github.io/2021/01_hello_world/</guid>
+      <description>Hello world！ 事物的开始是仓促的，个人博客想到就去做了。希望能够不要草草了事罢。</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>https://jasonking666.github.io/2014/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasonking666.github.io/2014/goisforlovers/</guid>
+      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
+This document is a brief primer on using Go templates.</description>
+    </item>
+    
+    <item>
+      <title>Introduction aux modèles (Hu)go</title>
+      <link>https://jasonking666.github.io/2014/goisforlovers.fr/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasonking666.github.io/2014/goisforlovers.fr/</guid>
+      <description>Hugo utilise l&amp;rsquo;excellente librairie go html/template pour son moteur de modèles. c&amp;rsquo;est un moteur extrêmement léger qui offre un très petit nombre de fonctions logiques. À notre expérience, c&amp;rsquo;est juste ce qu&amp;rsquo;il faut pour créer un bon site web statique. Si vous avez déjà utilisé d&amp;rsquo;autre moteurs de modèles pour différents langages ou frameworks, vous allez retrouver beaucoup de similitudes avec les modèles go.
+Ce document est une introduction sur l&amp;rsquo;utilisation de Go templates.</description>
     </item>
     
   </channel>
