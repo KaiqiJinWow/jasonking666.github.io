@@ -2,62 +2,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://jasonking666.github.io/2014/creating-a-new-theme/</loc>
-      
-      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://jasonking666.github.io/2014/migrate-from-jekyll/</loc>
-      
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://jasonking666.github.io/</loc>
-      
-      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://jasonking666.github.io/posts/</loc>
-      
-      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
       <loc>https://jasonking666.github.io/about/</loc>
       
       <lastmod>2014-04-09T00:00:00+00:00</lastmod>
@@ -128,20 +72,6 @@
     </url>
   
     <url>
-      <loc>https://jasonking666.github.io/2014/hugoisforlovers/</loc>
-      
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
       <loc>https://jasonking666.github.io/categories/go/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
@@ -198,7 +128,7 @@
     </url>
   
     <url>
-      <loc>https://jasonking666.github.io/tags/hugo/</loc>
+      <loc>https://jasonking666.github.io/2014/goisforlovers.fr/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       
@@ -212,7 +142,21 @@
     </url>
   
     <url>
-      <loc>https://jasonking666.github.io/2014/goisforlovers.fr/</loc>
+      <loc>https://jasonking666.github.io/</loc>
+      
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://jasonking666.github.io/posts/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       
@@ -257,48 +201,6 @@
       <loc>https://jasonking666.github.io/tags/themes/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://jasonking666.github.io/projects/migrate-from-jekyll/</loc>
-      
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://jasonking666.github.io/projects/</loc>
-      
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://jasonking666.github.io/categories/uncategorized/</loc>
-      
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
